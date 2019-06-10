@@ -1,0 +1,14 @@
+D:\Univer\ПАСОИБ Пекунов\Kursach\Kursach\bin\Debug\Kursach.exe.config
+D:\Univer\ПАСОИБ Пекунов\Kursach\Kursach\bin\Debug\Kursach.exe
+D:\Univer\ПАСОИБ Пекунов\Kursach\Kursach\bin\Debug\Kursach.pdb
+D:\Univer\ПАСОИБ Пекунов\Kursach\Kursach\bin\Debug\policy.2.0.taglib-sharp.dll
+D:\Univer\ПАСОИБ Пекунов\Kursach\Kursach\bin\Debug\taglib-sharp.dll
+D:\Univer\ПАСОИБ Пекунов\Kursach\Kursach\bin\Debug\policy.2.0.taglib-sharp.config
+D:\Univer\ПАСОИБ Пекунов\Kursach\Kursach\obj\Debug\Kursach.csprojAssemblyReference.cache
+D:\Univer\ПАСОИБ Пекунов\Kursach\Kursach\obj\Debug\Kursach.Form1.resources
+D:\Univer\ПАСОИБ Пекунов\Kursach\Kursach\obj\Debug\Kursach.Properties.Resources.resources
+D:\Univer\ПАСОИБ Пекунов\Kursach\Kursach\obj\Debug\Kursach.csproj.GenerateResource.cache
+D:\Univer\ПАСОИБ Пекунов\Kursach\Kursach\obj\Debug\Kursach.csproj.CoreCompileInputs.cache
+D:\Univer\ПАСОИБ Пекунов\Kursach\Kursach\obj\Debug\Kursach.csproj.CopyComplete
+D:\Univer\ПАСОИБ Пекунов\Kursach\Kursach\obj\Debug\Kursach.exe
+D:\Univer\ПАСОИБ Пекунов\Kursach\Kursach\obj\Debug\Kursach.pdb
